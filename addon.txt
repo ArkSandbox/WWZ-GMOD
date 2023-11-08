@@ -1,0 +1,13 @@
+"AddonInfo"
+{
+	"name" "h"
+	"author_name" "Author Name"
+	"info" "{
+	"description": "Description",
+	"type": "npc",
+	"tags": [
+		"scenic",
+		"fun"
+	]
+}"
+}
