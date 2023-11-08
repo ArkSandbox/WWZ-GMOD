@@ -1,0 +1,8 @@
+UnlitGeneric
+{
+$baseTexture "hud\l4d2/PZ_charge_Tank"
+$translucent 1
+$vertexcolor 1
+$vertexalpha 1
+$ignorez 1
+}
